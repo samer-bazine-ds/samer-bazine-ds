@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Data Science Student at ENSSEA<br>📊 Passionate about Machine Learning, AI, and Data Analytics<br>🚀 Exploring Deep Learning, Big Data, and Cloud Computing<br>🤝 Open to collaborations on AI research, predictive modeling, and data-driven solutions</p>
+<h4 align="left">🎓 Data Science Student at ENSSEA<br>📊 Passionate about Machine Learning, AI, and Data Analytics<br>🚀 Exploring Deep Learning, Big Data, and Cloud Computing<br>🤝 Open to collaborations on AI research, predictive modeling, and data-driven solutions</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Machine Learning: Scikit-Learn, TensorFlow, PyTorch<br>Data Visualization: Matplotlib, Seaborn, Power BI<br>Databases: PostgreSQL, MySQL<br>Cloud & Big Data: AWS, Google Cloud, Hadoop</p>
+<h3 align="left">Machine Learning: Scikit-Learn, TensorFlow, PyTorch<br>Data Visualization: Matplotlib, Seaborn, Power BI<br>Databases: PostgreSQL, MySQL</h3>
 
 ###
 
@@ -33,6 +33,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<h2 align="left">Social Media</h2>
 
 ###
 
