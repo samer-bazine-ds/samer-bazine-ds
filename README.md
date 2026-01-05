@@ -1,16 +1,55 @@
-<h1 align="left">Hey 👋, I'm Samer Bazine</h1>
+<h1 align="center">Samer Bazine</h1>
+<h3 align="center">Data Science Student | Machine Learning and AI</h3>
 
-###
+---
 
-<h4 align="left">🎓 Data Science Student at ENSSEA<br>📊 Passionate about Machine Learning, AI, and Data Analytics<br>🚀 Exploring Deep Learning, Big Data, and Cloud Computing<br>🤝 Open to collaborations on AI research, predictive modeling, and data-driven solutions</h4>
+### About Me
+- Data Science student at ENSSEA  
+- Interested in Machine Learning, Artificial Intelligence, and Data Analytics  
+- Currently working on Deep Learning, Big Data, and Cloud Computing topics  
+- Open to collaborations in AI research, predictive modeling, and data-driven solutions  
 
-###
+---
 
-<h2 align="left">🚀 What I’m Working On<br>Developing machine learning models for predictive analytics<br>Exploring deep learning techniques for real-world applications<br>Contributing to open-source data science projects</h2>
+### Current Work
+- Developing machine learning models for predictive analytics  
+- Applying deep learning techniques to real-world problems  
+- Contributing to open-source data science projects  
 
-###
+---
 
-<h3 align="left">Machine Learning: Scikit-Learn, TensorFlow, PyTorch<br>Data Visualization: Matplotlib, Seaborn, Power BI<br>Databases: PostgreSQL, MySQL</h3>
+### Technical Skills
+
+**Machine Learning and AI**
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+
+**Data Analysis and Visualization**
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Power BI  
+
+**Databases**
+- PostgreSQL  
+- MySQL  
+
+---
+
+### Research and Interests
+- Applied Machine Learning  
+- Statistical Modeling  
+- Time Series Analysis  
+- Business Intelligence  
+- AI-driven Decision Systems  
+
+---
+
+### Contact
+- GitHub: https://github.com/samer-bazine-ds  
+- Open to internships, research projects, and collaborations
 
 ###
 
